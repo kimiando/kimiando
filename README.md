@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kimi</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimiando&label=Profile%20views&color=0e75b6&style=flat" alt="kimiando" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [www.kimikoando.com](www.kimikoando.com)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
