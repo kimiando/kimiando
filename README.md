@@ -1,4 +1,9 @@
-### Hi there 👋
+### Kimiko Andoー@kimiando
+Hey there!✨ 
+Welcome to my profile! I'm Kimi, and I'd be thrilled to [connect]([https://www.linkedin.com/in/kimiandoo/]) with you!
+
+  Here's a little snapshot of me in GIF form: 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBsNG5pa2J1cHlrNmUzMnpic2VzaDQzZmpiZnduZzNwM2kxZGgwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="150" height="150"/>
 
 <!--
 **kimiando/kimiando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
