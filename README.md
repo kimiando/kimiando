@@ -2,8 +2,6 @@
 Welcome to my github profile 👋🏻
 
 I'm Kimi, and I'd be thrilled to [connect](https://www.linkedin.com/in/kimiandoo/) with you!
-I am currently exploring the world of web development.
-
 Learn more about me on my [personal-portfolio](https://www.kimikoando.com/) 🌟
 
 ### I love bringing creative ideas to life through coding. 👩🏻‍💻
